@@ -50,6 +50,10 @@ naissances1019 <- telechargerDonnees("NAISSANCES_COM_1019")
 
 Par défaut, les fichiers sont téléchargés dans un dossier temporaire. Il est possible de choisir un autre dossier (argument `telDir`). Celui-ci jouera le rôle de cache et évitera des re-téléchargements inutiles.
 
+## Une source de données disponible sur insee.fr n'est pas dans le package ?
+
+Vous pouvez la proposer en ouvrant une _[issue](https://github.com/InseeFrLab/DoReMIFaSol/issues/new/choose)_ sur le dépôt GitHub du package.
+
 ## Quel rapport avec `utilitR` ?
 
 Afin de se rapprocher le plus possible des situations de travail rencontrées par les agents de l’Insee, la plupart des exemples de la documentation `utilitR` reposent sur des données produites et mises à disposition au grand public par l’Insee.
