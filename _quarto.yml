@@ -1,11 +1,8 @@
 project:
   type: website
   render:
-    - /slides/formation_light.qmd
-    - /slides/formation_full.qmd
-    - /slides/formation_manageurs.qmd
     - index.qmd
-    - "/cards/**/*.qmd"
+    - archives.qmd
 
 website:
   title: "`utilitR`"
@@ -16,6 +13,8 @@ website:
         text: Home
       - href: https://www.book.utilitr.org
         text: Documentation
+      - href: archives.qmd
+        text: Archives
       - href: https://datalab.sspcloud.fr
         text: "SSPCloud"
       - icon: github
