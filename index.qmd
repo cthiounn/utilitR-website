@@ -1,0 +1,54 @@
+---
+page-layout: full
+toc: false
+---
+
+::: {#hero-banner .column-screen}
+
+:::: {.grid .column-page}
+
+::::: {.headline .g-col-lg-8 .g-col-12 .g-col-md-12}
+
+:::::: h1
+`utilitR`
+::::::
+
+:::::: h2
+Une documentation utile pour {{< fa brands r-project >}}
+::::::
+
+```{=html}
+<a class="github-button" href="https://github.com/inseefrlab/utilitr" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this website on Github">Star this website on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+```
+
+<br>
+
+Le projet utilitR est une documentation sur l’usage du logiciel <i class="fab fa-r-project"></i>, née
+à l'Insee, destinée à
+tout utilisateur·trice de <i class="fab fa-r-project"></i> intéressé·e par la manipulation de données.
+La documentation ne fait aucun prérequis de niveau.
+<br>
+
+Tout est disponible en [open-source](https://github.com/inseefrlab/utilitr) <a href="https://github.com/inseefrlab/inseefrlab" class="github"><i class="fab fa-github"></i></a>
+
+<br>
+
+<p class="cta-btns">
+<a href="https://www.book.utilitr.org/" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-3 mb-md-1"><strong>Découvrez la documentation</strong></a>
+<a href="https://github.com/inseefrlab/utilitr" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-3 mb-md-1"><strong>Explorez les fichiers sources</strong></a>
+</p>
+
+<br>
+
+
+
+:::::
+
+::::: {.g-col-lg-4 .g-col-12 .g-col-md-12}
+![](images/logo-utilitr.png)
+:::::
+
+::::
+
+:::
+

@@ -1,9 +1,3 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
-# Hugo intermediate files
-resources/
-
-public/
+/.quarto/
+site_libs
+_site
