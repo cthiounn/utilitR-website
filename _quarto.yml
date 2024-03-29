@@ -21,7 +21,7 @@ website:
         href: https://github.com/InseeFrLab/utilitr
     background: "#4758AB"
   twitter-card:
-    image: /cards/version-light/cheetah.png
+    image: /images/utilitr-logo.png
 
 format:
   html:
