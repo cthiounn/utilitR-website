@@ -1,0 +1,47 @@
+/*-- scss:defaults --*/
+$utilitr-color: #93bcbc ;
+$navbar-bg: white ;
+$navbar-hl: $utilitr-color ;
+
+/*-- scss:rules --*/
+#hero-banner {
+    padding-top: 35px;
+    background-color: $utilitr-color;
+    color: white;
+  }
+
+
+.navbar-title code {
+    color: $utilitr-color;
+    background-color: inherit;
+}
+
+code {
+    color:#cf581b;
+    background-color: transparent !important;
+}
+
+.headline {
+    font-size: 1.25em;
+    font-weight: 400;
+    padding-bottom: 1em;
+    }
+    
+    .headline p {
+      margin: 0;
+      padding-bottom: 0.2rem;
+    }
+    
+    .headline a {
+      text-decoration: none;
+      color: inherit ;
+    }
+    
+    .headline ul li {
+      margin-bottom: 0.3em;
+    }
+
+.cta-btns a {
+    color: $utilitr-color
+}
+    
