@@ -1,1 +1,1 @@
-Sitemap: https://InseeFrLab.github.io/utilitR-website/sitemap.xml
+Sitemap: https://utilitr.org/sitemap.xml
