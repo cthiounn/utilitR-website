@@ -34,7 +34,7 @@ Tout est disponible en [open-source](https://github.com/inseefrlab/utilitr) <a h
 <br>
 
 <p class="cta-btns">
-<a href="https://www.book.utilitr.org/" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-3 mb-md-1"><strong>Découvrez la documentation</strong></a>
+<a href="https://book.utilitr.org/" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-3 mb-md-1"><strong>Découvrez la documentation</strong></a>
 <a href="https://github.com/inseefrlab/utilitr" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-3 mb-md-1"><strong>Explorez les fichiers sources</strong></a>
 </p>
 
