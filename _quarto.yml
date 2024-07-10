@@ -13,6 +13,8 @@ website:
         text: Home
       - href: https://book.utilitr.org
         text: Documentation
+      - href: https://nassab-abdallah.github.io/aide_memoire_r_sas/01-aide_memoire_r_sas.html
+        text: "Passer de SAS à R: aide-mémoire"
       - href: archives.qmd
         text: Archives
       - href: https://datalab.sspcloud.fr
